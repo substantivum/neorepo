@@ -18,6 +18,9 @@ public class Cake {
         this.cost = cost;
     }
 
+public Cake() {
+    }
+
     public String getFlavour() {
         return flavour;
     }

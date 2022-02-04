@@ -16,6 +16,9 @@ public class Pie {
         this.cost = cost;
     }
 
+    public Pie() {
+	}
+
     public String getFlavour() {
         return flavour;
     }

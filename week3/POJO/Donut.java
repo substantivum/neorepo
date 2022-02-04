@@ -13,6 +13,9 @@ public class Donut {
         this.cost = cost;
     }
 
+    public Donut() {
+    }
+
     public String getFlavour() {
         return flavour;
     }
